@@ -1,6 +1,6 @@
 
 # Budget Tracker
-![screenshot](./public/assets/screenshot.png)
+![screenshot](./public/assets/screenshot.PNG)
 ## Table of Contents
 [Title](#title)
 
